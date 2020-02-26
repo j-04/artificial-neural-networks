@@ -1,4 +1,4 @@
-#Artificial neural networks
+# Artificial neural networks
 
 ## About:
 #### From zero to hero of machine learning without special libraries and frameworks.
