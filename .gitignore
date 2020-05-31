@@ -1,4 +1,6 @@
 .idea/*
-target/*
+practice-1-2/target/
+backpropagation-method/target
 out/*
-*.iml
+practice-1-2/*.iml
+backpropagation-method/*.iml
